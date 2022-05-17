@@ -107,7 +107,7 @@ If you would like to contribute to the project please message my github.
 
 ## Deployed App
 
-[URL](https://drive.google.com/file/d/1KUZ1s8Y3nwrG39lluqVOPAbol1u90QFI/view?usp=sharing)
+[URL](https://book-search-mickey.herokuapp.com/)
 
 ## Questions
 
