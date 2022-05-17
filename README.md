@@ -101,9 +101,8 @@ If you would like to contribute to the project please message my github.
 
 ## Screenshots
 
-![App-Screenshot](./assets/createUser.png)
-![App-Screenshot](./assets/createThought.png)
-![App-Screenshot](./assets/getUsers.png)
+![App-Screenshot](./Assets/bookSearch.png)
+![App-Screenshot](./Assets/bookSave.png)
 
 ## Deployed App
 
